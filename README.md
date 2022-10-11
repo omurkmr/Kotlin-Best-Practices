@@ -5,4 +5,5 @@ This project contains some of the best practices I like or examples while I trie
 Contains
 -
 Mapper/useCase Pattern
+
 Sealed/SealedInterface/Enum difference
